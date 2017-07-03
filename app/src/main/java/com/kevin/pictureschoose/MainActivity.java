@@ -31,7 +31,14 @@ import java.util.List;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;
-
+/**
+*
+* @author：KevinLiu
+* @E-mail:KevinLiu9527@163.com
+* @time 2017/7/3 11:34
+* 备注：图片的选择和拍照
+*
+*/
 public class MainActivity extends AppCompatActivity {
 
 
